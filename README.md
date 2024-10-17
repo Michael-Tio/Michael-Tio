@@ -1,7 +1,7 @@
-# Halo semua! 
-Perkenalkan nama saya Michael Andreas Prasetio.\
-Saya seorang Mahasiswa Aktif di Universitas Surabaya.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/michael-andreas-prasetio-0498a91bb)ku ya.
+# Hello there! 
+I'm Michael Andreas Prasetio.\
+Fresh Graduate Informatics Engineering at Universitas Surabaya.\
+Follow me on [Linkedin](https://www.linkedin.com/in/michael-andreas-prasetio-0498a91bb) to get to know me.
  
 <p align="left">
 <a href="https://github.com/michael-tio">
