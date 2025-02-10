@@ -1,6 +1,6 @@
-# Hello there! 
+# Hello World! 
 I'm Michael Andreas Prasetio.\
-Fresh Graduate Informatics Engineering at Universitas Surabaya.\
+Fresh Graduate Informatics Engineering at Universitas Surabaya. Currently working as Laravel Full Stack Developer at Surabaya\
 Follow me on [Linkedin](https://www.linkedin.com/in/michael-andreas-prasetio-0498a91bb) to get to know me.
  
 <p align="left">
